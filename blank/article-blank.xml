@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE issue PUBLIC "-//PKP//OJS Articles and Issues XML//EN" "http://pkp.sfu.ca/ojs/dtds/native.dtd">
+<article xmlns="http://pkp.sfu.ca" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="uk_UA" date_submitted="date" date_published="date" section_ref="name" seq="1" access_status="0" xsi:schemaLocation="http://pkp.sfu.ca native.xsd" stage="production">
+    <id type="internal" advice="ignore"></id>
+    <title locale="en_US"></title>
+    <title locale="uk_UA"></title>
+    <abstract locale="en_US"></abstract>
+    <abstract locale="uk_UA"></abstract>
+    <copyrightHolder locale="en_US"></copyrightHolder>
+    <copyrightHolder locale="uk_UA"></copyrightHolder>
+    <copyrightYear></copyrightYear>
+    <keywords locale="en_US">
+        <keyword></keyword>
+        <keyword></keyword>
+    </keywords>
+    <keywords locale="uk_UA">
+        <keyword></keyword>
+        <keyword></keyword>
+    </keywords>
+    <authors xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://pkp.sfu.ca native.xsd">
+      <author include_in_browse="true" user_group_ref="Author">
+        <firstname></firstname>
+        <lastname></lastname>
+        <affiliation locale="en_US"></affiliation>
+        <affiliation locale="uk_UA"></affiliation>
+        <country></country>
+        <email></email>
+        <orcid></orcid>
+        <biography locale="en_US"></biography>
+        <biography locale="uk_UA"></biography>
+      </author>
+    </authors>
+    <issue_identification>
+      <number></number>
+      <year></year>
+      <title locale="en_US"></title>
+      <title locale="uk_UA"></title>
+    </issue_identification>
+    <pages></pages>
+  </article>

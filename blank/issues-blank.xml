@@ -1,0 +1,97 @@
+<?xml version="1.0"?>
+<issue xmlns="http://pkp.sfu.ca" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" published="0" current="0" access_status="1" xsi:schemaLocation="http://pkp.sfu.ca native.xsd">
+  <id type="internal" advice="ignore">2</id>
+  <description locale="en_US"></description>
+  <description locale="uk_UA"></description>
+  <issue_identification>
+    <number></number>
+    <year></year>
+    <title locale="en_US"></title>
+    <title locale="uk_UA"></title>
+  </issue_identification>
+    <sections>
+        <section ref="Articles" seq="0" editor_restricted="0" meta_indexed="1" meta_reviewed="1" abstracts_not_required="1" hide_title="0" hide_author="0" abstract_word_count="0">
+            <id type="internal" advice="ignore">2</id>
+            <abbrev locale="en_US"></abbrev>
+            <abbrev locale="uk_UA"></abbrev>
+            <title locale="en_US"></title>
+            <title locale="uk_UA"></title>
+        </section>
+    </sections>
+    <issue_galleys xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://pkp.sfu.ca native.xsd"/>
+    <articles xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://pkp.sfu.ca native.xsd">
+<!-- Single Author article -->
+        <article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="uk_UA" date_submitted="date" stage="production" date_published="date" section_ref="name" seq="1" access_status="0">
+            <id type="internal" advice="ignore">1</id>
+            <title locale="en_US"></title>
+            <title locale="uk_UA"></title>
+            <abstract locale="en_US"></abstract>
+            <abstract locale="uk_UA"></abstract>
+            <copyrightHolder locale="en_US"></copyrightHolder>
+            <copyrightHolder locale="uk_UA"></copyrightHolder>
+            <copyrightYear></copyrightYear>
+            <keywords locale="uk_UA">
+                <keyword></keyword>
+                </keywords>
+                <keywords locale="en_US">
+                <keyword></keyword>
+            </keywords>
+            <authors xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://pkp.sfu.ca native.xsd">
+                <author include_in_browse="true" user_group_ref="Author">
+                <firstname></firstname>
+                <lastname></lastname>
+                <affiliation locale="en_US"></affiliation>
+                <affiliation locale="uk_UA"></affiliation>
+                <country></country>
+                <email></email>
+                <orcid></orcid>
+                <biography locale="en_US"></biography>
+                <biography locale="uk_UA"></biography>
+                </author>
+            </authors>
+            <pages></pages>
+        </article>
+<!-- Group Authors article -->
+        <article xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" locale="uk_UA" date_submitted="date" stage="production" date_published="date" section_ref="name" seq="1" access_status="0">
+            <id type="internal" advice="ignore"></id>
+            <title locale="en_US"></title>
+            <title locale="uk_UA"></title>
+            <abstract locale="en_US"></abstract>
+            <abstract locale="uk_UA"></abstract>
+            <copyrightHolder locale="en_US"></copyrightHolder>
+            <copyrightHolder locale="uk_UA"></copyrightHolder>
+            <copyrightYear></copyrightYear>
+            <keywords locale="uk_UA">
+                <keyword></keyword>
+                </keywords>
+                <keywords locale="en_US">
+                <keyword></keyword>
+            </keywords>
+            <authors xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://pkp.sfu.ca native.xsd">
+                <author include_in_browse="true" user_group_ref="Author">
+                <firstname></firstname>
+                <lastname></lastname>
+                <affiliation locale="en_US"></affiliation>
+                <affiliation locale="uk_UA"></affiliation>
+                <country></country>
+                <email></email>
+                <orcid></orcid>
+                <biography locale="en_US"></biography>
+                <biography locale="uk_UA"></biography>
+                </author>
+                <author include_in_browse="true" user_group_ref="Author">
+                <firstname></firstname>
+                <lastname></lastname>
+                <affiliation locale="en_US"></affiliation>
+                <affiliation locale="uk_UA"></affiliation>
+                <country></country>
+                <email></email>
+                <orcid></orcid>
+                <biography locale="en_US"></biography>
+                <biography locale="uk_UA"></biography>
+                </author>
+            </authors>
+            <pages></pages>
+        </article>
+  </articles>
+</issue>
